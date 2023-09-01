@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgb(126, 181, 185);
+    align-content: center;
+    margin-left: 300px;
+}
+img{
+    height: 4cm;
+    width: 6cm;
+}
+a{
+    color: rgb(109, 7, 241);
+}
+#top1{
+    display: inline;
+    margin: 8em;
+}
+.topp{
+background-color: green;
+width: 680px;
+}
+
+#bottom{
+    background-color: rgb(153, 241, 197);
+    width: 680px;
+}
